@@ -1,1 +1,1 @@
-Just another Uni student learning Java, python and C++
+Just another Aussie Uni student learning Java, python, ARM assembly (thumb-2), C and C++
